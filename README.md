@@ -5,6 +5,12 @@ ACCESS - Quarter Degree Ocean Coupled Climate Model
 
 1/4 Degree MOM5 Ocean model coupled to CICE & UM
 
+Building the Model
+------------------
+
+Running the Model
+-----------------
+
 Technology Stack
 ----------------
 
