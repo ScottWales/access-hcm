@@ -1,9 +1,7 @@
-access-q
-========
+access-hcm
+==========
 
-ACCESS - Quarter Degree Ocean Coupled Climate Model
-
-1/4 Degree MOM5 Ocean model coupled to CICE & UM
+ACCESS-HCM is a project from the Centre of Excellence for Climate Systems Science to integrate a global quarter-degree ocean model into the Australian Community Climate and Earth-System Simulator (ACCESS) model.
 
 Building the Model
 ------------------
@@ -19,10 +17,10 @@ Development:
  * Continuous Integration - ???
 
 Model:
- * Ocean - [MOM](https://github.com/BreakawayLabs/mom)
- * Sea Ice - [CICE](http://oceans11.lanl.gov/trac/CICE)
- * Atmosphere - UM
- * Coupling - [Oasis-MCT](https://enes.org/oasis/)
+ * Ocean - [MOM](https://github.com/BreakawayLabs/mom) - [GPLv2](https://github.com/BreakawayLabs/mom/blob/master/LICENSE)
+ * Sea Ice - [CICE](http://oceans11.lanl.gov/trac/CICE) - [Attribution](http://oceans11.lanl.gov/trac/CICE/wiki/CopyRight)
+ * Atmosphere - UM - [Proprietary Licence](http://www.metoffice.gov.uk/research/collaboration/um-collaboration)
+ * Coupling - [Oasis-MCT](https://enes.org/oasis/) - [LGPL](https://enes.org/oasis/download/oasis3-mct-copyright)
 
 Interface:
  * Config tool - [Rose](https://github.com/metomi/rose/)?
