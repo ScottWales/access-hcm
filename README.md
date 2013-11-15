@@ -1,7 +1,7 @@
 access-hcm
 ==========
 
-ACCESS-HCM is a project from the Centre of Excellence for Climate Systems Science to integrate a global quarter-degree ocean model into the Australian Community Climate and Earth-System Simulator (ACCESS) model.
+ACCESS-HCM is a project from the ARC Centre of Excellence for Climate Systems Science to integrate a global quarter-degree ocean model into the Australian Community Climate and Earth-System Simulator (ACCESS) model.
 
 Building the Model
 ------------------
