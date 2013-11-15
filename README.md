@@ -17,10 +17,10 @@ Development:
  * Continuous Integration - ???
 
 Model:
- * Ocean - [MOM](https://github.com/BreakawayLabs/mom) - [GPLv2](https://github.com/BreakawayLabs/mom/blob/master/LICENSE)
- * Sea Ice - [CICE](http://oceans11.lanl.gov/trac/CICE) - [Attribution](http://oceans11.lanl.gov/trac/CICE/wiki/CopyRight)
- * Atmosphere - UM - [Proprietary Licence](http://www.metoffice.gov.uk/research/collaboration/um-collaboration)
- * Coupling - [Oasis-MCT](https://enes.org/oasis/) - [LGPL](https://enes.org/oasis/download/oasis3-mct-copyright)
+ * Ocean - [MOM](https://github.com/BreakawayLabs/mom) ([GPLv2](https://github.com/BreakawayLabs/mom/blob/master/LICENSE))
+ * Sea Ice - [CICE](http://oceans11.lanl.gov/trac/CICE) ([Attribution](http://oceans11.lanl.gov/trac/CICE/wiki/CopyRight))
+ * Atmosphere - [UM](http://www.metoffice.gov.uk/research/modelling-systems/unified-model) ([Proprietary Licence](http://www.metoffice.gov.uk/research/collaboration/um-collaboration))
+ * Coupling - [Oasis-MCT](https://enes.org/oasis/) ([LGPL](https://enes.org/oasis/download/oasis3-mct-copyright))
 
 Interface:
  * Config tool - [Rose](https://github.com/metomi/rose/)?
